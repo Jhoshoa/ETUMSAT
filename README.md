@@ -5,7 +5,7 @@
   
     b)	Configuración. - Es posible configurar algunos parámetros antes y durante de la prueba, como la ubicación donde se realiza la prueba y ajustar las propiedades de los gráficos.
   
-    c)	Puerto COM.- Establece comunicación con el puerto serial COM.
+    c)	Puerto COM.- Establece comunicación con el puerto serial COM (Velocidad de baudios 115200).
   
     d)	Comando. - Ofrece la posibilidad de enviar comandos al CanSat, por ejemplo, solicitar una fotografía.
   
